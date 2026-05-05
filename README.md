@@ -38,4 +38,5 @@
 ### 📫 Get In Touch
 
 - 🌐 [fatlhr.github.io/fatihas-portofolio](https://fatlhr.github.io/fatihas-portofolio)
+- 💼 [linkedin.com/in/fatiha-rahmat](https://www.linkedin.com/in/fatiha-rahmat)
 - Open to opportunities — especially teams working on mobile, AI, or Japan market products
