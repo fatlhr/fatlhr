@@ -13,7 +13,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-**Architecture & Libraries:** Bloc · Retrofit + Dio · Freezed · Provider
+**Architecture & Libraries:** Bloc · Retrofit + Dio · Freezed · Provider  
 **Exploring:** iOS (Swift) · AI integration · MCP (Model Context Protocol)
 
 ---
@@ -26,9 +26,12 @@
 
 ---
 
-### 📈 Stats
+### 🔍 What I'm Exploring
 
-![Fatiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatlhr&show_icons=true&theme=tokyonight&hide_border=true)
+- 📱 **iOS & Swift** — Bridging from Flutter to native Apple ecosystem
+- 🤖 **AI Integration** — Building tools with LLMs, MCP, and automation pipelines
+- 🌏 **Japan Tech Market** — Following engineering culture, tools, and opportunities
+- 🧱 **Clean Architecture** — Scaling mobile apps beyond MVP without tech debt
 
 ---
 
