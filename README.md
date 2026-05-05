@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Fatiha Rahmat 👋
 
-<!--
-**fatlhr/fatlhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flutter Developer** · 3 years building mobile apps · Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+🌐 [Portfolio](https://fatlhr.github.io/fatihas-portofolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+**Architecture & Libraries:** Bloc · Retrofit + Dio · Freezed · Provider
+**Exploring:** iOS (Swift) · AI integration · MCP (Model Context Protocol)
+
+---
+
+### 🚀 Currently Working On
+
+- 🔧 **flutter-bloc-starter** — Production-grade Flutter Bloc architecture template
+- 🤖 **mcp-match-reminder** — Claude MCP + Google Calendar automation
+- ⚡ **telegram-bot-gas** — Telegram bot for attendance & invoicing
+
+---
+
+### 📈 Stats
+
+![Fatiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatlhr&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+### 📫 Get In Touch
+
+- 🌐 [fatlhr.github.io/fatihas-portofolio](https://fatlhr.github.io/fatihas-portofolio)
+- Open to opportunities — especially teams working on mobile, AI, or Japan market products
