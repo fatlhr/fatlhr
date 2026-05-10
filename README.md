@@ -2,8 +2,6 @@
 
 **Flutter Developer** · 3 years building mobile apps · Indonesia 🇮🇩
 
-🌐 [Portfolio](https://fatlhr.github.io/fatihas-portofolio)
-
 ---
 
 ### 🛠 Tech Stack
@@ -37,5 +35,4 @@
 
 ### 📫 Get In Touch
 
-- 💼 [linkedin.com/in/fatiha-rahmat](https://www.linkedin.com/in/fatiha-rahmat)
 - Open to opportunities — especially teams working on mobile, AI, or Japan market products
