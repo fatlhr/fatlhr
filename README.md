@@ -13,14 +13,6 @@ Alongside mobile development, I build web apps and tools that connect AI agents 
 - **Web & tooling:** TypeScript, React, Next.js, Node.js
 - **Development workflow:** Git, Playwright, Vitest, Xcode, Claude Code, Codex
 
-## Selected projects
-
-### [NaraFrame](https://github.com/fatlhr/NaraFrame)
-
-An open-source tool for creating editable vertical videos with a coding agent. It runs locally, keeps project sources editable, and takes each video through preview, approval, and export.
-
-Built with TypeScript and Remotion, with reusable visual profiles and workflows for Claude Code and Codex.
-
 ## How I approach development
 
 I start with the user journey and business rules, then work through API contracts, state management, and error handling. I care about code that another developer can follow and about the details that show up during QA and release.
