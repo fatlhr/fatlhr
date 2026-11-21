@@ -4,7 +4,7 @@
 
 Based in Jakarta, Indonesia. I build Android and iOS applications with Flutter, with experience across banking, lending, merchant payments, and internal business workflows.
 
-Alongside mobile development, I build web apps and tools that connect AI agents to practical workflows. My recent work includes a local video-creation engine for coding agents.
+Alongside mobile development, I build web apps and tools that connect AI agents to practical workflows.
 
 ## What I work with
 
