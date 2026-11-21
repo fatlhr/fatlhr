@@ -4,7 +4,7 @@
 
 Based in Jakarta, Indonesia. I build Android and iOS applications with Flutter, with experience across banking, lending, merchant payments, and internal business workflows.
 
-Alongside mobile development, I build web apps and tools that connect AI agents to practical workflows. My recent work includes tutoring software and a local video-creation engine for coding agents.
+Alongside mobile development, I build web apps and tools that connect AI agents to practical workflows. My recent work includes a local video-creation engine for coding agents.
 
 ## What I work with
 
@@ -20,12 +20,6 @@ Alongside mobile development, I build web apps and tools that connect AI agents 
 An open-source tool for creating editable vertical videos with a coding agent. It runs locally, keeps project sources editable, and takes each video through preview, approval, and export.
 
 Built with TypeScript and Remotion, with reusable visual profiles and workflows for Claude Code and Codex.
-
-### [TutorLog Web](https://github.com/fatlhr/tutorlog-web)
-
-A web app for managing tutoring sessions and building invoices. It combines session records, authentication, and PDF export, with Playwright checks for responsive layouts, visual changes, and accessibility.
-
-Built with Next.js, TypeScript, and Supabase.
 
 ## How I approach development
 
